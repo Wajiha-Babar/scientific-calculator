@@ -59,14 +59,14 @@ The calculator supports:
 
 ---
 
-## 🖼️ Interface Preview
-
+<!-- ## 🖼️ Interface Preview -->
+<!-- 
 ```md
 
 <p align="center">
   <img src="./calculator-ui.png" alt="Calculator preview" width="100%">
 </p>
-```
+``` -->
 
 ---
 
