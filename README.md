@@ -62,7 +62,10 @@ The calculator supports:
 ## 🖼️ Interface Preview
 
 ```md
-![Scientific Calculator Preview](calculator-ui.png)
+
+<p align="center">
+  <img src="./calculator-ui.png" alt="Calculator preview" width="100%">
+</p>
 ```
 
 ---
