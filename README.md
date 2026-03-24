@@ -23,6 +23,14 @@ The calculator supports:
 - answer history tracking
 
 ---
+---
+
+## 🌐 Live Demo
+
+🔗 **Deployed App:**  
+[Scientific Calculator](https://scientific-calculator-wajiha.streamlit.app/)
+
+---
 
 ## ✨ Features
 
@@ -54,7 +62,9 @@ The calculator supports:
 ## 🖼️ Interface Preview
 
 ```md
-![Scientific Calculator Preview](C:\Users\thahe\scientific-calculator\calculator-ui.png)
+<p align="center">
+  <img src="./calculator-ui.png" alt="Scientific Calculator Preview" width="100%">
+</p>
 ```
 
 ---
@@ -235,29 +245,7 @@ This project can be used for:
 
 This project can be deployed easily on **Streamlit Cloud**.
 
-### Deployment Steps
-
-1. Push the project to GitHub
-2. Open Streamlit Cloud
-3. Connect your GitHub account
-4. Select this repository
-5. Choose:
-   - **Branch:** `main`
-   - **Main file path:** `app.py`
-6. Click **Deploy**
-
 ---
-
-## 🧾 requirements.txt
-
-Your `requirements.txt` should contain:
-
-```txt
-streamlit
-```
-
----
-
 ## 🙋‍♀️ Author
 
 **Wajiha Babar**
