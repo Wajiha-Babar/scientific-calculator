@@ -53,18 +53,8 @@ The calculator supports:
 
 ## 🖼️ Interface Preview
 
-Add your project screenshot in the repository and update the file name below if needed.
-
 ```md
-![Scientific Calculator Preview](calculator-ui.png)
-```
-
-If your screenshot has another name, replace `calculator-ui.png` with the correct file name.
-
-Example:
-
-```md
-![Scientific Calculator Preview](screenshot.png)
+![Scientific Calculator Preview](C:\Users\thahe\scientific-calculator\calculator-ui.png)
 ```
 
 ---
@@ -137,13 +127,6 @@ cd scientific-calculator
 
 ```bash
 python -m venv venv
-venv\Scripts\activate
-```
-
-#### If `python` does not work
-
-```bash
-py -m venv venv
 venv\Scripts\activate
 ```
 
